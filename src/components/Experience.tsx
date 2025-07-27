@@ -14,6 +14,15 @@ const Experience = () => {
       highlights: ["88% ROC-AUC", "1000+ customer records", "Production deployment"]
     },
     {
+      title: "Data Science Intern",
+      company: "Bosson Catalyst Ventures LLP",
+      period: "May 2025 - Aug 2025",
+      type: "Internship",
+      description: "Developed a smart, enterprise-grade content tagging system using a hybrid NLP approach. Combined POS tagging, Named Entity Recognition (NER), and noun chunking to extract high-quality candidate keywords. Leveraged Sentence Transformers to compute semantic similarity between extracted keywords and content context, enabling accurate and dynamic tag generation. Delivered scalable, real-time performance suitable for production environments.",
+      skills: ["Natural Language PRocessing (NLP)", "NER" , 'Noun Chunks', "POS Tagging", "Data Preprocessing", "Machine Learning", "Sentance Transformer" , "Model Deployment"],
+      highlights: ["Key Word Extraction", "Enterprise Grade AI Tool", "Production deployment"]
+    },
+    {
       title: "Project Management Intern", 
       company: "Grape Events",
       period: "Aug 2024 - Nov 2024",
